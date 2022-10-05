@@ -1,0 +1,3 @@
+C:/Noser/GitHub/BLJ2022OsDoe/C/KW40/Code Beispiel DOD/cmake-build-debug/CMakeFiles/Code_Beispiel_DOD.dir
+C:/Noser/GitHub/BLJ2022OsDoe/C/KW40/Code Beispiel DOD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Noser/GitHub/BLJ2022OsDoe/C/KW40/Code Beispiel DOD/cmake-build-debug/CMakeFiles/rebuild_cache.dir

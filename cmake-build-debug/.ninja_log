@@ -1,0 +1,8 @@
+# ninja log v5
+6	93	6866766449414506	CMakeFiles/Code_Beispiel_DOD.dir/CAlculatOr.c.obj	9c8f21c23b554522
+0	99	6866766449472270	CMakeFiles/Code_Beispiel_DOD.dir/maiin.c.obj	183a18299dbfea4b
+101	206	6866766450503552	Code_Beispiel_DOD.exe	19e2f18d215f5c72
+2	93	6866766647382693	CMakeFiles/Code_Beispiel_DOD.dir/maiin.c.obj	183a18299dbfea4b
+93	204	6866766648459153	Code_Beispiel_DOD.exe	19e2f18d215f5c72
+2	115	6866767046458161	CMakeFiles/Code_Beispiel_DOD.dir/maiin.c.obj	183a18299dbfea4b
+115	228	6866767047539321	Code_Beispiel_DOD.exe	19e2f18d215f5c72
